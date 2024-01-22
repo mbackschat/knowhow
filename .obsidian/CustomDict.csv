@@ -1,0 +1,3 @@
+co-note >>> > [!note]\n> ,Memo
+co-attention >>> > [!attention]\n> 
+co-error >>> > [!error]- <CARET>\n> ,Dealing with errors

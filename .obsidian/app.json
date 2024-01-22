@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "attachments",
+  "showFrontmatter": false,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "attachments/",
+    "textgenerator/"
+  ],
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
